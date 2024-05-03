@@ -2,7 +2,7 @@
 
 ## Deskripsi
 <div align="center">
- 
+ <img src="https://github.com/frendysanusi05/Tugas-Besar-IF1210-Dasar-Pemrograman/assets/92145413/a5fe2d1b-a8ea-43cd-a4f0-71cc54b001cc" />
 </div>
 
 <p align="justify"> BNMO (dibaca: Binomo) adalah sebuah robot game milik Indra dan Doni yang bertujuan untuk membantu mereka melepas stress ketika mendapatkan tugas selama di Institut Teknologi Bandung. Agar kamu mengetahui lebih jauh apa itu BNMO, let's just play the game!! <p>
