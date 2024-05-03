@@ -16,14 +16,14 @@
 | 4. | Adinda Siti Fathonah          | 16521160 |
 
 
-## Cara Menjalankan program Sim-Plicity
+## Cara Menjalankan program BNMO
 
 ```
 python main.py
 ```
 
 
-## Buku Petunjuk Sim-Plicity
+## Buku Petunjuk BNMO
 <p align="justify">
 Biar jago adu mekanik, pemain perlu baca ini <p>
  
