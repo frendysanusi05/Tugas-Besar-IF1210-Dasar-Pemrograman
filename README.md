@@ -28,6 +28,7 @@ python main.py
 Biar jago adu mekanik, pemain perlu baca ini <p>
  
 <p align="Center">
-  <a href="IF1210_K08_10_Laporan.pdf">Visit Laporan Tugas Besar BNMO!!!
-  <a>
+  <a href="docs/IF1210 Spesifikasi Tugas Besar 2022.pdf">Visit Spesifikasi Tugas Besar BNMO!!!</a>
+  <br>
+  <a href="docs/IF1210_K08_10_Laporan.pdf">Visit Laporan Tugas Besar BNMO!!!</a>
 <p>
